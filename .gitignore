@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+
+# Claude Code local state
+.claude/
+CLAUDE.local.md
+
+# Node / build output (in case skill tooling lands here later)
+node_modules/
+dist/
+build/
+
+# Local notes that shouldn't ship with the public spec
+scratch/
+NOTES.local.md
