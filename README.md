@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://clide.paean.ai/icon.svg" alt="Clide" width="120" />
+<img src="docs/assets/clide-icon.svg" alt="Clide" width="120" />
 
 <h1>OpenClide</h1>
 
@@ -32,7 +32,7 @@
 
 <br/>
 
-<img src="https://clide.paean.ai/docs/screenshots/1-hero.png" alt="Clide — AI‑native terminal for macOS" width="860" />
+<img src="docs/assets/hero.png" alt="Clide — AI‑native terminal for macOS" width="860" />
 
 </div>
 

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="#000000"/>
+
+  <!-- Outer Circle Ring (consistent with paean design system) -->
+  <circle cx="512" cy="512" r="370" stroke="#FFFFFF" stroke-width="28" fill="none"/>
+
+  <!-- Terminal Prompt ">" chevron -->
+  <path d="M 340 370 L 500 512 L 340 654" stroke="#3DD8EB" stroke-width="48" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Terminal Cursor "_" underscore -->
+  <rect x="540" y="620" width="160" height="40" rx="8" fill="#3DD8EB"/>
+</svg>
